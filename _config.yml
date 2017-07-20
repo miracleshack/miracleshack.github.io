@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /bootstrap-3-working-with-ie8
+exclude: ['README.md']
